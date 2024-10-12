@@ -1,0 +1,1 @@
+The games and stats listed in the csv documents were the numbers each player put up when I was working their game for either the Seattle Mariners or Sports Info Solutions. I wanted to write some analysis on the players I felt were the most interesting, and I thought adding some context through statistics would be a fun way to look back at the year.
